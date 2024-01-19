@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: *Evolutionary Biology*, Postdoctoral Research Fellow @ [Felice Lab, UCL](https://rnfelice.github.io/). He/Him?His
 
 profile:
   align: right
