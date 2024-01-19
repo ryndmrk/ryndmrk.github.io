@@ -5,7 +5,7 @@ permalink: /
 subtitle: <b>Evolutionary Biologist</b>, Postdoctoral Research Fellow @ <a href="https://rnfelice.github.io/">Felice Lab (UCL)</a>
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
