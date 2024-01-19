@@ -1,199 +1,362 @@
 {
+  "$schema": "C:/Users/rm017/Desktop/CVjson/schema.json",
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Dr. Ryan Marek",
+    "label": "Evolutionary Biologist",
+    "email": "r.marek@ucl.ac.uk",
+    "phone": "he/him/his",
+    "url": "",
+    "summary": "I am an evolutionary biologist (and occasional palaeontologist) that uses geometric morphometrics and phylogenetic comparative methods to uncover the forces behind morphological disparity and evolution across time and clades. I am experienced in R programming, geometric morphometrics, functional morphology and communicating science to a diversity of audiences.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "London",
+      "countryCode": "UK",
+      "region": "Greater London"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "url":"https://scholar.google.co.uk/citations?user=9AMf8scAAAAJ&hl=en"
+      },
+      {
+        "url": "https://github.com/ryndmrk"
+      },
+      {
+        "url": "https://www.linkedin.com/in/ryandmarek"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Felice Lab, University College London",
+      "location": "London, UK",
+      "position": "Postdoctoral Research Fellow",
+      "url": "https://rnfelice.github.io/",
+      "startDate": "2021-09-01",
+      "summary": "Working as the named postdoctoral researcher on a Leverhulme Trust project entitled 'The evolution of the cervical spine in birds'. The project combines 3D geometric morphometrics and phylogenetic comparative modelling to determine how and when the neck became such a key feature of avian anatomy.",
+      "highlights": [
+        "High-density 3D geometric morphometrics",
+        "Phylogenetic modelling/comparative methods",
+        "micro-CT scanning and reconstruction",
+        "Undergraduate teaching",
+        "MRes student supervision"
+      ]
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Lucid Group (medical communications)",
+      "location": "Macclesfield, UK",
+      "position": "Medical Writer",
+      "url": "https://www.wearelucidgroup.com/",
+      "startDate": "2020-11-01",
+      "endDate": "2021-08-14",
+      "summary": "At Lucid Group I leveraged my skills in technical writing and heuristic literature searching to produce a range of media to inform and educate healthcare professionals about the latest pharmaceutical products.",
+      "highlights": [
+        "Project management",
+        "Teamwork",
+        "Independent working",
+        "Delivering multiple projects on tight deadlines"
+      ]
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "Evolutionary Morphology and Biomechanics Group, University of Liverpool",
+      "location": "Liverpool, UK",
+      "position": "Postdoctoral Research Associate",
+      "url": "https://twitter.com/LivEvoBiomech/",
+      "startDate": "2019-10-01",
+      "endDate": "2020-04-30",
+      "summary": "The Evolutionary Morphology and Biomechanics lab at the University of Liverpool utilize the latest techniques to understand how the vertebrate body functions and to understand those functions in an evolutionary context. As such the lab sits at the interface between health sciences and evolutionary studies of motion.",
+      "highlights": [
+        "Wet lab work (avian muscle dissection)",
+        "Phylogenetic comparative methods",
+        "Scientific writing",
+        "Supervision of undergraduate students"
+      ]
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Evolutionary Morphology and Biomechanics Group, University of Liverpool",
+      "location": "Liverpool, UK",
+      "position": "PhD candidate",
+      "url": "https://twitter.com/LivEvoBiomech/",
+      "startDate": "2015-09-01",
+      "endDate": "2019-08-31",
+      "summary": "During my PhD (awarded March 2020, minor corrections) I worked with Karl Bates and Peter Falkingham to investigate the drivers of morphofunctional variation in the neck of extant avians. I employed a wide variety of techniques to understand the variation in avian cervical regionalisation, osteology and myology.",
+      "highlights": [
+        "CT scanning & reconstruction",
+        "Wet lab work (avian muscle dissection)",
+        "Phylogenetic comparative methods",
+        "Financial organisation of associated funding"
+      ]
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "The neck as a keystone structure in avian macroevolution and mosaicism",
+      "publisher": "BMC Biology",
+      "releaseDate": "2023-10-04",
+      "url": "https://link.springer.com/article/10.1186/s12915-023-01715-x",
+      "summary": "Marek, R. D., & Felice, R. N. (2023). The neck as a keystone structure in avian macroevolution and mosaicism. BMC biology, 21(1), 216."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "A surrogate forelimb: Evolution, function and development of the avian cervical spine",
+      "publisher": "Journal of Morphology",
+      "releaseDate": "2023-10-01",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/jmor.21638",
+      "summary": "Marek, R. D. (2023). A surrogate forelimb: Evolution, function and development of the avian cervical spine. Journal of Morphology, 284(10), e21638."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Decoupling body shape and mass distribution in birds and their dinosaurian ancestors",
+      "publisher": "Nature Communications",
+      "releaseDate": "2023-03-22",
+      "url": "https://www.nature.com/articles/s41467-023-37317-y",
+      "summary": "Macaulay, S., Hoehfurtner, T., Cross, S. R., Marek, R. D., Hutchinson, J. R., Schachner, E. R., ... & Bates, K. T. (2023). Decoupling body shape and mass distribution in birds and their dinosaurian ancestors. Nature communications, 14(1), 1575."
+    },
+    {
+      "name": "Evolutionary versatility of the avian neck",
+      "publisher": "Proceedings of the Royal Society B",
+      "releaseDate": "2021-03-10",
+      "url": "https://royalsocietypublishing.org/doi/full/10.1098/rspb.2020.3150",
+      "summary": "Marek, R. D., Falkingham, P. L., Benson, R. B., Gardiner, J. D., Maddox, T. W., & Bates, K. T. (2021). Evolutionary versatility of the avian neck. Proceedings of the Royal Society B, 288(1946), 20203150."
+    },
+    {
+      "name": "Dental ontogeny and replacement in Pliosauridae",
+      "publisher": "Royal Society Open Science",
+      "releaseDate": "2015-11-04",
+      "url": "https://royalsocietypublishing.org/doi/full/10.1098/rsos.150384",
+      "summary": "Sassoon, J., Foffa, D., & Marek, R. (2015). Dental ontogeny and replacement in Pliosauridae. Royal Society open science, 2(11), 150384."
+    },
+    {
+      "name":"Fossil Focus: Ichthyosaurs",
+      "publisher":"Palaeontology Online",
+      "releaseDate":"2015-08-01",
+      "url":"https://www.palaeontologyonline.com/articles/2015/fossil-focus-ichthyosaurs/",
+      "summary":"Marek, R. (2015). Fossil focus: ichthyosaurs. Palaeontol. Online, 5, 8."
+    },
+    {
+      "name": "The skull and endocranium of a Lower Jurassic ichthyosaur based on digital reconstructions",
+      "publisher": "Palaeontology",
+      "releaseDate": "2015-07-01",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12174",
+      "summary": "Marek, R. D., Moon, B. C., Williams, M., & Benton, M. J. (2015). The skull and endocranium of a Lower Jurassic ichthyosaur based on digital reconstructions. Palaeontology, 58(4), 723-742."
+    },
+    {
+      "name": "Break-neck pace: analysing the interplay between integration and evolutionary rate in avian neck evolution",
+      "publisher": "Invited speaker, ICVM 2023 (Cairns, Australia)",
+      "releaseDate": "2023-08-01"
+    },
+    {
+      "name": "Grabbing evolution by the throat: the role of neck-forelimb integration in avian evolution",
+      "publisher": "Oral presentation, SVP 2022 (Toronto, Canada)",
+      "releaseDate": "2022-11-01"
+    },
+    {
+      "name": "Neck-forelimb integration drives cervical morphological evolution in extant avians",
+      "publisher":"Oral presentation, SVPCA (London, UK)",
+      "releaseDate": "2022-09-22"
+    },
+    {
+      "name":" The Surrogate arm: assessing factors influencing vertebral morphology in the avian cervical spine",
+      "publisher":"Oral presentation, SVP (Brisbane, Australia)",
+      "releaseDate":"2019-10-09"
+    },
+    {
+      "name":"The Surrogate arm: assessing factors influencing vertebral morphology in the avian cervical spine",
+      "publisher":"Oral presentation, ICVM 2019 (Prague, Czech Republic)",
+      "releaseDate":"2019-07-01"
+    },
+    {
+      "name":"An everyday tool: how the avian neck has adapted to (almost) every situation",
+      "publisher":"Oral presentation, SVPCA 2018 (Manchester, UK)",
+      "releaseDate":"2018-09-08"
+    },
+    {
+      "name":"The surrogate arm: analysing the role of regionalisation in the variation of the avian neck",
+      "publisher":"Oral presentation, SEB 2018 (Florence, Italy)",
+      "releaseDate":"2018-07-03"
+    },
+    {
+      "name":"The surrogate arm: analysing the role of regionalisation in the variation of the avian neck",
+      "publisher":"Lightning talk, SICB Division of Vertebrate Morphology 2018 (London, UK)",
+      "releaseDate":"2018-05-11"
+    },
+    {
+      "name":"Grabbing evolution by the throat: Functional regionalisation of the avian cervical column",
+      "publisher": "Poster presentation, SVP 2017 (Calgary, Canada)",
+      "releaseDate": "2017-08-23"
+    },
+    {
+      "name":"Grabbing evolution by the throat: Functional regionalisation of the avian cervical column",
+      "publisher": "Poster presentation, EAVP 2017 (Munich, Germany)",
+      "releaseDate": "2017-07-31"
+    }
+  ],
+  "": [
+    {
+      "organization": "Animal Refuge",
+      "position": "Supervisor",
+      "url": "https://example.com/",
+      "startDate": "2012-10-11",
+      "endDate": "2014-12-24",
+      "summary": "Nulla sit amet velit ac turpis interdum consectetur eget vitae ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam pharetra diam et tortor bibendum laoreet.",
+      "highlights": [
+        "Maecenas at dictum sem",
+        "Ut ac ex ac ipsum commodo",
+        "Pellentesque vitae sed dolor",
+        "Aliquam ut lectus ac lacus ultrices"
+      ]
+    },
+    {
+      "organization": "Red cross",
+      "position": "Math professor",
+      "url": "https://example.com/",
+      "startDate": "2011-01-16",
+      "endDate": "2012-10-10",
+      "summary": "Proin id justo pulvinar, imperdiet eros ac, iaculis nunc. Donec dignissim leo volutpat, cursus arcu vel, dapibus risus. Nam ut volutpat est. In fringilla commodo pretium. Vestibulum efficitur pellentesque ex. Nulla dictum, mauris sit amet mattis pharetra, purus ipsum commodo ex, a molestie metus augue sit amet justo."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Liverpool, UK",
+      "url": "https://www.proquest.com/docview/2451874026?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses",
+      "area": "Musculoskeletal Biology",
+      "studyType": "PhD"
+    },
+    {
+      "institution": "University of Bristol, UK",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12174",
+      "area": "Palaeontology",
+      "studyType": "MSci"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Bogue Fellowship Award 2022",
+      "awarder": "UCL",
+      "summary": "£4,700. For travel to the USA and Canada for a [data collection trip](https://www.ucl.ac.uk/lifesciences-faculty/news/2023/may/bogue-fellowship-report-ryan-marek)"
+    },
+    {
+      "title": "Leverhulme Trust Research Project Grant",
+      "awarder": "Leverhulme Trust",
+      "summary": "£183,362. Named postdoc on grant entitled 'The evolution of the cervical spine in birds'"
+    },
+    {
+      "title": "ACCE Publication Award",
+      "awarder": "ACCE",
+      "summary": "~£4,000 (3 months salary). Awarded for research excellence during a PhD, allowing further time to write manuscripts"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "3D geometric morphometrics",
+      "issuer": "Transmitting Science",
+      "url": "https://www.transmittingscience.com/courses/geometric-morphometrics/3d-geometric-morphometrics/"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Languages",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "R",
+        "bash"
+      ]
+    },
+    {
+      "name": "Techniques",
+      "keywords": [
+        "3D geometric morphometrics",
+        "CT scanning & reconstruction",
+        "3D surface scanning",
+        "Phylogenetic comparative methods",
+        "Muscle dissection",
+        "Muscle fibre acid digestion"
+      ]
+    },
+    {
+      "name": "Software",
+      "keywords": [
+        "R Studio",
+        "Avizo/Amira",
+        "MatLab",
+        "RevBayes",
+        "Blender",
+        "Maya",
+        "Artec Studio"
+      ]
+    },
+    {
+      "name": "Journal reviews",
+      "keywords": [
+        "Scientific Reports",
+        "Journal of Morphology",
+        "Journal of Palaeontological Techniques"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
       "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "fluency": "Native"
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Bird watching"
+    },
+    {
+      "name": "Hiking"
+    },
+    {
+      "name": "Craft beer"
+    },
+    {
+      "name": "Live music"
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Ryan Felice - Associate Professor, University College London. ryan.felice@ucl.ac.uk",
+      "reference": ""
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Karl Bates - Reader, University of Liverpool. K.T.Bates@liverpool.ac.uk",
+      "reference": ""
+    },
+    {
+      "name": "Roger Benson - Macaulay Curator, AMNH. rbenson@amnh.org",
+      "reference": ""
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "University College London",
+      "description": "I have been actively involved in practical teaching and undergraduate lectures throughout my postdoctoral career. I have also endeavored to improve my pedagogical knowledge through multiple teaching courses.",
+      "highlights": [
+        "MBBS Year 1 - Thorax & Abdomen clinical anatomy (demonstrating)",
+        "SSC Integrated anatomy (practical teaching)",
+        "ANAT0001 - Intro to Anatomy and Development (lecturing)",
+        "UCL Arena Teaching courses",
+        "HEA Associate Fellowship (accreditation)"
+      ],
+      "startDate": "2021-09-01",
+      "roles": [
+        "Undergraduate teaching"
+      ]
+    },
+    {
+      "name": "University College London, University of Liverpool",
+      "description": "I have had the pleasure of working with multiple talented students on some fascinating projects over my academic career.",
+      "highlights": [
+        "Anna Stuart (MRes): 'The role of integration and vertebral morphology in psittaciform tripedal locomotion' (paper in prep.).",
+        "Shay Glasgow (BSc): 'Stretching Evolution: Regionalisation and Neck Elongation in Plesiosaurs'."
+      ],
+      "startDate": "2018-04-01",
+      "endDate": "2019-01-01",
+      "roles": [
+        "Project supervision",
+        "mentorship"
+      ]
     }
-  ]
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
 }
