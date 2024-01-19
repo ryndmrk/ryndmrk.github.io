@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Evolutionary Biologist</b>, Postdoctoral Research Fellow @ Felice Lab (UCL)
+subtitle: <b>Evolutionary Biologist</b>, Postdoctoral Research Fellow @ <a href="https://rnfelice.github.io/">Felice Lab (UCL)</a>
 
 profile:
   align: right
