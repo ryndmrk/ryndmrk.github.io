@@ -5,7 +5,7 @@ description: 2015-2024
 img: assets/img/neck_evolution.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 <p>Flight has been an enormously successful evolutionary innovation for birds, however it has its downsides. Many animals use their forelimbs to grasp objects and interact with their surroundings, however the wings of birds are so highly tuned for powered flight that they can't effectively be used to manipulate their environment. As always, evolution has arrived at an incredible solution: birds utilise their head and neck as a 'surrogate forelimb' in order to capture prey (including spearfishing!), clean themselves, use tools and even to climb trees.</p>
