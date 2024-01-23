@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Evolution and Function of the avian neck
-description: a project with a background image
+description: 2015-2024
 img: assets/img/neck_evolution.jpg
 importance: 1
 category: work
@@ -36,7 +36,9 @@ related_publications: true
     A visual summary of the diversity of avian cervical morphology. (a) Variation in counts of cervical vertebrae across 112 species of extant birds, branches are coloured according to the number of cervical vertebrae. (b–e) Morphological vertebral variation across the cervical spine of <i>Strigops habroptilus</i> (b), <i>Pandion haliaetus</i> (c), <i>Anhinga anhinga</i> (d), and <i>Anser fabalis</i> (e) is represented by C2 (blue), a vertebrae occupying the exact midpoint of the cervical column (pink) and the last cervical vertebrae (gold). Sillouhuettes taken from PhyloPic.org.
 </div>
 
-<p>Over the last nine years I have used a multidisciplinary approach to document the variation in the musculoskeletal biology of bird necks and to investigate the evolutionary and ecological forces that have shaped neck evolution within this group of animals. With the help of many fabulous collaborators I have utilised 3D geometric morphometrics, muscle dissection, phylogenetic comparative methods, CT scanning, and range of motion analysis to understand the form, function and evolution of the neck of birds in a holistic manner. This work has culminated in multiple research publications and is effectively summarised <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/jmor.21638">here</a></p>.
+<p>Over the last nine years I have used a multidisciplinary approach to document the variation in the musculoskeletal biology of bird necks and to investigate the evolutionary and ecological forces that have shaped neck evolution within this group of animals. With the help of many fabulous collaborators I have utilised 3D geometric morphometrics, muscle dissection, phylogenetic comparative methods, CT scanning, and range of motion analysis to understand the form, function and evolution of the neck of birds in a holistic manner. This work has culminated in multiple research publications and is effectively summarised <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/jmor.21638">here</a> as well as in the podcast by the excellent <a href="https://www.palaeocast.com/bird-necks/">Palaeocast</a></p>.
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1vuPXUWjJSMLhqZqAwWgpi?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <p>Whilst we (along with many other amazing research teams) are beginning to unravel the evolutionary story behind the diversity of neck morphologies observed in modern birds, the next phase of the project is to understand what evolutionary forces gave rise to the long and flexible neck of birds. In order to answer this question we must now look to the past and incorporate data from the ancestors of birds, the dinosaurs. The dinosaur bodyplan underwent radical changes throughout the dinosaur-bird transition such as a reduction of the massive tail and the evolution of feathers. These changes also included a reduction in head size and an expansion of the forelimb to become a wing. We now hypothesise that with a lighter head the neck was more freely able to co-evolve with the wing, and the functional burden of environmental manipulation was shifted from the forelimbs to the head and neck. This work is currently ongoing and I am in the process of collecting dinosaur data from exciting museums around the world!</p>
 
