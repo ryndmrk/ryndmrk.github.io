@@ -15,7 +15,7 @@ related_publications: false
         {% include figure.liquid path="assets/img/surrogatearm.jpg" title="Birds can use their head and neck like we use our arms" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/vulturefeeding.jpg" title="Vulture's use their powerful neck to rip flesh from carcasses" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/vulturefeeding.jpg" title="Vultures use their powerful neck to rip flesh from carcasses" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/spearfish.jpg" title="Some birds (like this anhinga) can even spearfish!" class="img-fluid rounded z-depth-1" %}
