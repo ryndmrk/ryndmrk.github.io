@@ -16,12 +16,14 @@ nav_order: 6
     <li>SSC Integrated Anatomy: practical teaching for medical students wanting to learn about evolutionary morphology</li>
 </ul>
 
+
 <h2>Project supervision</h2>
 <h5>University College London</h5>
 <p><b>Anna Student (MRes)</b>: 'The role of integration and vertebral morphology in psittaciform tripedal locomotion' (3 month MRes project, publication forthcoming)</p>
 
 <h5>University of Liverpool</h5>
 <p><b>Shay Glasgow (BSc)</b>: <a href="https://researchonline.ljmu.ac.uk/id/eprint/10466/">'Stretching Evolution: the role of Regionalisation and Neck Elongation in Plesiosaurs'</a></p>
+
 
 <h2>Teaching courses & accreditations</h2>
 <ul>
