@@ -52,3 +52,12 @@ related_publications: false
 </div>
 
 <p>We now hypothesise that with a lighter head the neck was more freely able to co-evolve with the wing, and the functional burden of environmental manipulation was shifted from the forelimbs to the head and neck. This work is currently ongoing and I am in the process of collecting dinosaur data from exciting museums around the world!</p>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/ryanscanning.jpg" title="Me scanning a T rex fossil on display at the Carnegie Museum of Natural History" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    In 2022 I got the amazing opportunity to surface scan a very important specimen of the enigmatic dinosaur, <i>Tyrannosaurus rex</i> at the Carnegie Museum of Natural History.
+</div>
