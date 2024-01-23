@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Coming soon! The subpages below are all placeholders (for now! 👀)
+description: See below for the projects that I'm currently involved in 👇
 nav: true
 nav_order: 3
 display_categories: [work, fun]

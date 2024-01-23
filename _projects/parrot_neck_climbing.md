@@ -8,7 +8,7 @@ category: work
 related_publications: false
 ---
 
-<p>Parrots are an enigmatic group of animals that have captivated us with their array of colourful plumage and propensity for mimicry. However, fascinating features of parrots are not just skin deep and morphologists have long known that parrots possess a suite of interesting morphologies from a pronounced hinge joint between the 'beak' and the top of the skull and zygodactyl feet (two toes facing forward and two back) which are dextrous enough to manipulate food objects and makeshift tools.</p>
+<p>Parrots are an enigmatic group of animals that have captivated us with their array of colourful plumage and propensity for mimicry. However, fascinating features of parrots are not just skin deep and morphologists have long known that parrots possess a suite of interesting morphologies: from a pronounced hinge joint between the 'beak' and the top of the skull, to zygodactyl feet (two toes facing forward and two back) that are dextrous enough to manipulate food objects and makeshift tools.</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8GpvWASt3hY?si=s2Wp1kCF3kFwwwrR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -20,6 +20,7 @@ title="Parrot climbing (From Young et al. 2022)"
 frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 allowfullscreen></iframe>
+
 
 <p>My amazing MRes student (Anna Stuart) and I teamed up with <a href="https://www.nyit.edu/bio/Michael.Granatosky">Prof. Michael Granatosky</a> to document how parrots climb across a broad selection of modern parrot species. We then used this data in conjuction with 3D geometric morphometrics and phylogenetic comparative methods to explore the statistical relationship between neck vertebral shape and climbing behaviours. As many species of living parrots climb we also investigated if this behaviour was leading to convergence in the neck morphology of different species of parrots.</p>
 
