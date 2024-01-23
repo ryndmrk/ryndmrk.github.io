@@ -2,7 +2,7 @@
 layout: page
 title: How climbing influences parrot neck evolution
 description: 2023-2024
-img: assets/img/12.jpg
+img: assets/img/parrotclimbing.jpg
 importance: 1
 category: work
 related_publications: false
