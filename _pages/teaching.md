@@ -8,7 +8,7 @@ nav_order: 6
 ---
 
 <h2>Undergraduate teaching</h2>
-<h3>University College London</h3>
+<h5>University College London</h5>
 <ul>
     <li>MBBS Year 1 - CPP Anatomy and Imaging/Circulation and Breathing: Practical and topographical anatomy of the thorax (2022-2024)</li>
     <li>MBBS Year 1 - CPP Anatomy and Imaging/Fluids, Nutrition and Metabolism: Practical and topographical anatomy of the abdomen (2022-2024)</li>
@@ -17,10 +17,10 @@ nav_order: 6
 </ul>
 
 <h2>Project supervision</h2>
-<h3>University College London</h3>
+<h5>University College London</h5>
 <p><b>Anna Student (MRes)</b>: 'The role of integration and vertebral morphology in psittaciform tripedal locomotion' (3 month MRes project, publication forthcoming)</p>
 
-<h3>University of Liverpool</h3>
+<h5>University of Liverpool</h5>
 <p><b>Shay Glasgow (BSc)</b>: <a href="https://researchonline.ljmu.ac.uk/id/eprint/10466/">'Stretching Evolution: the role of Regionalisation and Neck Elongation in Plesiosaurs'</a></p>
 
 <h2>Teaching courses & accreditations</h2>
