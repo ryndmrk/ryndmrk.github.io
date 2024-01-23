@@ -12,7 +12,7 @@ related_publications: false
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8GpvWASt3hY?si=s2Wp1kCF3kFwwwrR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<p>Recent work has highlighted another amazing feature of parrots: they climb trees using their head, <b>neck</b> and hindlimbs! The forelimb of birds are heavily adapted for flight so that they are unable to bear weight and therefore cannot participate in climbing. In order to climb, parrots utilise the head and neck in the forelimb's stead during vertical climbing, making it one of the only animals to use 3 'limbs' during locomotion. Whilst recent work has provided the scientific community with the kinematics of this movement in parrots, we don't currently understand if climbing has any associated morphological adaptations of the neck vertebrae, nor how it has influenced parrot neck evolution.</p>
+<p><a href="https://royalsocietypublishing.org/doi/full/10.1098/rspb.2022.0245">Recent work</a> has highlighted another amazing feature of parrots: they climb trees using their head, <b>neck</b> and hindlimbs! The forelimb of birds are heavily adapted for flight so that they are unable to bear weight and therefore cannot participate in climbing. In order to climb, parrots must utilise the head and neck instead of the forelimbs during vertical climbing, making it one of the only animals to use 3 'limbs' during locomotion. Whilst recent work has provided the scientific community with the underlying kinematics of this movement in parrots, we don't currently understand if climbing has any associated morphological adaptations of the neck vertebrae, nor how it has influenced parrot neck evolution.</p>
 
 <iframe width="315" height="560"
 src="https://www.youtube.com/embed/NK07Wt21I4U?si=F76yd-woxob_9uIe"
@@ -22,7 +22,7 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 allowfullscreen></iframe>
 
 
-<p>My amazing MRes student (Anna Stuart) and I teamed up with <a href="https://www.nyit.edu/bio/Michael.Granatosky">Prof. Michael Granatosky</a> to document how parrots climb across a broad selection of modern parrot species. We then used this data in conjuction with 3D geometric morphometrics and phylogenetic comparative methods to explore the statistical relationship between neck vertebral shape and climbing behaviours. As many species of living parrots climb we also investigated if this behaviour was leading to convergence in the neck morphology of different species of parrots.</p>
+<p>My amazing MRes student (Anna Stuart) and I teamed up with <a href="https://www.nyit.edu/bio/Michael.Granatosky">Prof. Michael Granatosky</a> to document how parrots climb across a broad selection of modern parrot species. We then used this data in conjuction with 3D geometric morphometrics and phylogenetic comparative methods to explore the statistical relationship between neck vertebral shape and climbing behaviours. We also investigated if this behaviour has led to convergence in the neck morphology of species of parrots that climb regularly.</p>
 
 <p>This work is close to completion, and we expect to upload a preprint version to bioRxiv very shortly, watch this space!</p>
 
