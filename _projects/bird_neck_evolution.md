@@ -2,7 +2,7 @@
 layout: page
 title: The Evolution and Function of the avian neck
 description: a project with a background image
-img: assets/img/neckevolution.jpg
+img: assets/img/neck_evolution.jpg
 importance: 1
 category: work
 related_publications: true
