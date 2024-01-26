@@ -30,5 +30,5 @@ nav_order: 6
     <li><b>Course</b>: Effective Teaching & Supervision for Postdoctoral Staff (UCL) </li>
     <li><b>Course</b>: Teaching & Microteaching (UCL) </li>
     <li><b>Course</b>: Core Teaching Skills (UCL)</li>
-    <li><b>Accreditation</b>: HEA Associate Fellow (submitted)</li>
+    <li><b>Accreditation</b>: HEA Associate Fellow (awarded January 2024)</li>
 </ul>
