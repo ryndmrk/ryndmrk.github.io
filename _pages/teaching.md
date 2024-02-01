@@ -12,7 +12,7 @@ nav_order: 6
 <ul>
     <li>MBBS Year 1 - CPP Anatomy and Imaging/Circulation and Breathing: Practical and topographical anatomy of the thorax (2022-2024)</li>
     <li>MBBS Year 1 - CPP Anatomy and Imaging/Fluids, Nutrition and Metabolism: Practical and topographical anatomy of the abdomen (2022-2024)</li>
-    <li>ANAT0001 - Intro to Aanatomy and Development: guest lectures (2023-2024)</li>
+    <li>ANAT0001 - Intro to Anatomy and Development: guest lectures (2023-2024)</li>
     <li>SSC Integrated Anatomy: practical teaching for medical students wanting to learn about evolutionary morphology</li>
 </ul>
 
